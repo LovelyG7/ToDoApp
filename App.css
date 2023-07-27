@@ -1,0 +1,47 @@
+*{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  justify-content: center;
+ 
+}
+h1{
+  text-align: center;
+}
+
+form{
+text-align: center;
+}
+
+input{
+  text-align: center;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+  
+}
+ body{
+  background-image: url('C:/Users/NG/Downloads/—Pngtree—beautiful frame background with floral_5205727.png');
+  background-repeat: no-repeat;
+  background-size: 1700px;
+  background-position:top;
+  background-position-y: 14%;
+  padding-top: 100px;
+ }
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
